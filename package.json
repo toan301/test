@@ -1,0 +1,12 @@
+{
+  "name": "gauge-taiko-demo-for-wirelessanalytics",
+  "version": "0.0.1",
+  "description": "Wirelessanalytics tests with Gauge",
+  "scripts": {
+    "test": "gauge run specs/"
+  },
+  "dependencies": {
+    "taiko": "latest",
+    "@getgauge/cli": "latest"
+  }
+}
